@@ -1,5 +1,7 @@
 <div align="center">
 
+![banner](banner.png)
+
 # Natan Oliveira
 
 **Product Engineer · Front-end — React · TypeScript · React Native**
@@ -81,12 +83,11 @@ const natan = {
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=natan-goliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br)
-![Streak](https://streak-stats.demolab.com?user=natan-goliveira&theme=github-dark-blue&locale=pt_BR)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=natan-goliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br" /><img height="170" src="https://streak-stats.demolab.com?user=natan-goliveira&theme=github-dark-blue&locale=pt_BR" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natan-goliveira&layout=compact&theme=github_dark&langs_count=8)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natan-goliveira&layout=compact&theme=github_dark&langs_count=8" />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=natan-goliveira&theme=darkhub&no-frame=true&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=natan-goliveira&theme=darkhub&no-frame=true&column=7" />
 
 </div>
 
