@@ -2,6 +2,10 @@
 
 ![banner](banner.png)
 
+<img src="https://ghchart.rshah.org/40c463/natan-goliveira" alt="Contribuições" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=natan-goliveira&theme=github-compact&hide_border=true&area=true&locale=pt-BR" width="100%" />
+
 # Natan Oliveira
 
 **Product Engineer · Front-end — React · TypeScript · React Native**
