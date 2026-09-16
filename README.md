@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](banner.png)
+![banner](banner-red.png)
 
 <img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/snake.svg" alt="snake" width="100%" />
 
