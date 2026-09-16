@@ -81,7 +81,7 @@ const natan = {
 </td>
 <td width="66%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=natan-goliveira&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="100%" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=natan-goliveira&theme=github-dark-blue&hide_border=true&disable_animations=true&card_width=500&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="100%" alt="streak" />
 
 <img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/snake.svg" width="100%" alt="contribuições" />
 
