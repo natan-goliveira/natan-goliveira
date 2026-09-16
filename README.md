@@ -1,10 +1,23 @@
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-![banner](banner-eye-full.png)
+<img src="banner-eye-full.png" width="100%" alt="" />
 
-</div>
+</td>
+<td width="40%">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,php,laravel,jest,vitest,githubactions,aws,cloudflare,figma,git,vscode&perline=6" width="100%" alt="stack" />
+
+</td>
+</tr>
+</table>
 
 ## 🧑‍💻 Sobre mim
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```typescript
 const natan = {
@@ -30,6 +43,15 @@ const natan = {
 
 > *"Me traz um problema difícil. Eu devolvo sistema funcionando."*
 
+</td>
+<td width="40%" valign="top">
+
+<img src="slots/slot-1-sq.png" width="100%" alt="" />
+
+</td>
+</tr>
+</table>
+
 ## 🔗 Contato
 
 <div align="center">
@@ -39,23 +61,6 @@ const natan = {
 
 </div>
 
-## 🛠️ Stack
-
-<table>
-<tr>
-<td width="45%" valign="middle">
-
-<img src="slots/slot-1-sq.png" width="100%" alt="" />
-
-</td>
-<td width="55%" valign="middle" align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,php,laravel,jest,vitest,githubactions,aws,cloudflare,figma,git,vscode&perline=5" alt="stack" />
-
-</td>
-</tr>
-</table>
-
 ## 📦 Produtos no ar
 
 | Projeto | O que é | Stack |
@@ -64,5 +69,3 @@ const natan = {
 | 🤖 **[Otto](https://otto.73code.com)** | Atendente de IA pra WhatsApp — clientes, MRR e exit | IA, webhooks, AWS |
 | 📋 **[Escopo Fácil](https://escopofacil.com.br)** | Gestor de projetos kanban | PHP, JS |
 | 📣 **[CG Marketing](https://cgmarketingsolutions.com.br)** | Site institucional para agência de tráfego | JS |
-
-<!-- SLOT-IMAGEM-2: screenshot/mockup em largura total abaixo dos produtos -->
