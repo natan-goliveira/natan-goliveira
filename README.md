@@ -2,8 +2,6 @@
 
 ![banner](banner-crt.png)
 
-<img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/snake.svg" alt="snake" width="100%" />
-
 </div>
 
 ## 🧑‍💻 Sobre mim
@@ -79,13 +77,3 @@ const natan = {
 | 📣 **[CG Marketing](https://cgmarketingsolutions.com.br)** | Site institucional para agência de tráfego | JS |
 
 <!-- SLOT-IMAGEM-2: screenshot/mockup em largura total abaixo dos produtos -->
-
-## 📊 Analytics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/github-metrics.svg" alt="metrics" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=natan-goliveira&theme=darkhub&no-frame=true&column=7" />
-
-</div>
