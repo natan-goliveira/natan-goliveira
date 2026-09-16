@@ -2,7 +2,7 @@
 
 ![banner](banner.png)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=natan-goliveira&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/snake.svg" alt="snake" width="100%" />
 
 # Natan Oliveira
 
