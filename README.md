@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](banner-crt.png)
+![banner](banner-olho.png)
 
 </div>
 
