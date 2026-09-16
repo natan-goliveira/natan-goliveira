@@ -2,7 +2,7 @@
 <tr>
 <td width="60%">
 
-<img src="banner-eye-full.png" width="100%" alt="" />
+<img src="banner-eye-43.png" width="100%" alt="" />
 
 </td>
 <td width="40%">
