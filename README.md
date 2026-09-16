@@ -69,3 +69,13 @@ const natan = {
 | 🤖 **[Otto](https://otto.73code.com)** | Atendente de IA pra WhatsApp — clientes, MRR e exit | IA, webhooks, AWS |
 | 📋 **[Escopo Fácil](https://escopofacil.com.br)** | Gestor de projetos kanban | PHP, JS |
 | 📣 **[CG Marketing](https://cgmarketingsolutions.com.br)** | Site institucional para agência de tráfego | JS |
+
+## 📊 Constância
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/github-metrics.svg" alt="metrics" width="100%" />
+
+<img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/snake.svg" alt="snake" width="100%" />
+
+</div>
