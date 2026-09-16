@@ -7,7 +7,7 @@
 </td>
 <td width="40%">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,php,laravel,jest,vitest,githubactions,aws,cloudflare,figma,git,vscode&perline=6" width="100%" alt="stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,prisma,php,laravel,mysql,postgres,docker,jest,vitest,githubactions,git,aws,cloudflare,figma,vscode&perline=6" width="100%" alt="stack" />
 
 </td>
 </tr>
