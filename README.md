@@ -84,9 +84,7 @@ const natan = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=natan-goliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br" /><img height="170" src="https://streak-stats.demolab.com?user=natan-goliveira&theme=github-dark-blue&locale=pt_BR" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natan-goliveira&layout=compact&theme=github_dark&langs_count=8" />
+<img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/github-metrics.svg" alt="metrics" width="100%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=natan-goliveira&theme=darkhub&no-frame=true&column=7" />
 
