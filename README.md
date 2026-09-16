@@ -76,14 +76,7 @@ const natan = {
 <tr>
 <td width="34%" valign="top">
 
-**1.152** contribuições<br>
-**217** dias ativos no ano<br>
-**34** commits no melhor dia<br>
-**~2,7** commits por dia
-
-<br>
-
-A maior parte do trabalho vive em repositórios privados — o gráfico mostra a intensidade, não o conteúdo.
+<img src="stats-card.png" width="100%" alt="constância em números" />
 
 </td>
 <td width="66%" valign="top">
