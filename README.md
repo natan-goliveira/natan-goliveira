@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](banner-olho.png)
+![banner](banner-eye-full.png)
 
 </div>
 
