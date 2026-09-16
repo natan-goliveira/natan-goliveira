@@ -74,7 +74,7 @@ const natan = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/github-metrics.svg" alt="metrics" width="100%" />
+<img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/github-metrics.svg" alt="metrics" width="480" />
 
 <img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/snake.svg" alt="snake" width="100%" />
 
