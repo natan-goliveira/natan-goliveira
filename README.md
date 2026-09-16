@@ -90,14 +90,8 @@ A maior parte do trabalho vive em repositórios privados — o gráfico mostra a
 
 <img src="https://streak-stats.demolab.com?user=natan-goliveira&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="100%" alt="streak" />
 
-<img src="https://ghchart.rshah.org/40c463/natan-goliveira" width="100%" alt="calendário de contribuições" />
+<img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/snake.svg" width="100%" alt="contribuições" />
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/snake.svg" alt="snake" width="100%" />
-
-</div>
