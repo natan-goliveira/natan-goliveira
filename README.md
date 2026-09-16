@@ -74,24 +74,23 @@ const natan = {
 
 <table>
 <tr>
-<td width="38%" valign="top">
+<td width="34%" valign="top">
 
-**1.075** commits no último ano
-**217** dias ativos
-**11 dias** de sequência máxima
-**34** commits no melhor dia
-**~2,7** commits por dia, em média
+**1.152** contribuições<br>
+**217** dias ativos no ano<br>
+**34** commits no melhor dia<br>
+**~2,7** commits por dia
 
-A maior parte do trabalho vive em
-repositórios privados — o gráfico
-mostra a intensidade, não o conteúdo.
+<br>
+
+A maior parte do trabalho vive em repositórios privados — o gráfico mostra a intensidade, não o conteúdo.
 
 </td>
-<td width="62%" valign="top">
+<td width="66%" valign="top">
 
 <img src="https://streak-stats.demolab.com?user=natan-goliveira&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="100%" alt="streak" />
 
-<img src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/output/github-metrics.svg" alt="calendário" width="100%" />
+<img src="https://ghchart.rshah.org/40c463/natan-goliveira" width="100%" alt="calendário de contribuições" />
 
 </td>
 </tr>
