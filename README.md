@@ -43,14 +43,14 @@ const natan = {
 
 <table>
 <tr>
-<td width="42%" valign="middle">
+<td width="45%" valign="middle">
 
-<img src="slots/slot-1.png" width="100%" alt="" />
+<img src="slots/slot-1-sq.png" width="100%" alt="" />
 
 </td>
-<td width="58%" valign="middle" align="center">
+<td width="55%" valign="middle" align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,php,laravel,jest,vitest,githubactions,aws,cloudflare,figma,git,vscode&perline=6" alt="stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,php,laravel,jest,vitest,githubactions,aws,cloudflare,figma,git,vscode&perline=5" alt="stack" />
 
 </td>
 </tr>
