@@ -6,9 +6,6 @@
 
 ## 🧑‍💻 Sobre mim
 
-<!-- SLOT-IMAGEM-1: imagem à direita do bloco de código (380px) -->
-<img align="right" width="380" alt="" src="https://raw.githubusercontent.com/natan-goliveira/natan-goliveira/main/slots/slot-1.png" />
-
 ```typescript
 const natan = {
   papel: "Lead Product Engineer @ Instituto Índigo",
@@ -33,8 +30,6 @@ const natan = {
 
 > *"Me traz um problema difícil. Eu devolvo sistema funcionando."*
 
-<br clear="right"/>
-
 ## 🔗 Contato
 
 <div align="center">
@@ -46,26 +41,20 @@ const natan = {
 
 ## 🛠️ Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="42%" valign="middle">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="slots/slot-1.png" width="100%" alt="" />
 
-</div>
+</td>
+<td width="58%" valign="middle" align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,php,laravel,jest,vitest,githubactions,aws,cloudflare,figma,git,vscode&perline=6" alt="stack" />
+
+</td>
+</tr>
+</table>
 
 ## 📦 Produtos no ar
 
